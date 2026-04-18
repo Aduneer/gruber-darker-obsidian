@@ -23,6 +23,8 @@ Originally created for BBEdit by [John Gruber](https://daringfireball.net/), ada
 - ✅ Canvas, Mermaid diagrams, PDF embeds
 - ✅ No remote assets — fully offline compatible
 
+-> see [Theme Preview](details.png)
+
 ---
 
 ## Style Settings
@@ -92,6 +94,7 @@ The status bar indicator requires a plugin that adds a Vim mode element to the s
 ### Manual
 1. Copy the `gruber-darker/` folder into `YourVault/.obsidian/themes/`
 2. **Settings → Appearance → Themes** → select **Gruber Darker**
+(you may need to rename the folder to something else like Gruber Darker, also reopen Obsidian)
 
 ---
 
