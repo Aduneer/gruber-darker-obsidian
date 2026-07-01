@@ -35,7 +35,7 @@ Install the [Style Settings](https://github.com/obsidian-community/obsidian-styl
 
 | Section | Options |
 |---------|---------|
-| **Palette Overrides** | All 17 palette colors individually |
+| **Palette Overrides** | All 17 palette colors individually, OLED Mode toggle |
 | **Editor** | Font size, line height, max width, readable line length, line numbers, active line highlight, indent guides, smooth scrolling |
 | **Headings** | H1–H4 size sliders, text transform |
 | **Code Blocks** | Font size, border toggle |
@@ -111,3 +111,11 @@ Both released under the **MIT License**. This Obsidian port is also [MIT license
 ## Contributing
 
 Issues and PRs welcome. If you find an element that needs styling, or something looks off, please open an issue.
+
+---
+
+## Changelog
+
+### 2.1.1
+- Added 'OLED Mode' under Style Settings (pure black background).
+- Added Zen mode
