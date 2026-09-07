@@ -1895,18 +1895,6 @@ body:not(.gd-indent-guides) .cm-indent-guides {
   background-color: rgba(244, 56, 65, 0.15);
 }
 
-.theme-dark input[type="text"],
-.theme-dark input[type="search"],
-.theme-dark input[type="email"],
-.theme-dark input[type="password"],
-.theme-dark textarea {
-  background-color: var(--gd-bg-light);
-  color: var(--gd-fg);
-  border: 1px solid var(--input-border-color);
-  border-radius: var(--input-radius);
-  transition: border-color 120ms ease;
-}
-
 .theme-dark input:focus,
 .theme-dark textarea:focus {
   border-color: var(--input-focus-border-color);
