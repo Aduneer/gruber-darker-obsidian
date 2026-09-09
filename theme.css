@@ -1667,24 +1667,9 @@ body:not(.gd-indent-guides) .cm-indent-guides {
 /* ============================================================
    FRONTMATTER / PROPERTIES
    ============================================================ */
-.theme-dark .metadata-container {
-  background-color: rgba(16, 16, 16, 0.7);
-  border-bottom: 1px solid var(--gd-bg-light);
-  border-radius: 0 0 6px 6px;
-  margin-bottom: 0.5em;
-}
-
-.theme-dark .metadata-property:hover {
-  background-color: rgba(40, 40, 40, 0.5);
-}
 
 .theme-dark .metadata-property-key {
-  color: var(--gd-niagara);
   font-size: 0.88em;
-}
-
-.theme-dark .metadata-property-value {
-  color: var(--gd-quartz);
 }
 
 /* ============================================================
@@ -1893,18 +1878,6 @@ body:not(.gd-indent-guides) .cm-indent-guides {
 
 .theme-dark button.mod-warning:hover {
   background-color: rgba(244, 56, 65, 0.15);
-}
-
-.theme-dark input[type="text"],
-.theme-dark input[type="search"],
-.theme-dark input[type="email"],
-.theme-dark input[type="password"],
-.theme-dark textarea {
-  background-color: var(--gd-bg-light);
-  color: var(--gd-fg);
-  border: 1px solid var(--input-border-color);
-  border-radius: var(--input-radius);
-  transition: border-color 120ms ease;
 }
 
 .theme-dark input:focus,
