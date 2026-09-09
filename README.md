@@ -116,6 +116,9 @@ Issues and PRs welcome. If you find an element that needs styling, or something 
 
 ## Changelog
 
+### 2.1.2
+- Simplified frontmatter and properties styling for a cleaner look ([#2](https://github.com/Aduneer/gruber-darker-obsidian/pull/2)).
+
 ### 2.1.1
 - Added 'OLED Mode' under Style Settings (pure black background).
 - Added Zen mode
